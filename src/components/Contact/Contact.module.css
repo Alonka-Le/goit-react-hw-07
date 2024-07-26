@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+  gap: 8px;
+  border: 4px solid rgba(72, 7, 78, 0.87);
+  width: 360px;
+  justify-content: space-between;
+  border-radius: 10px;
+  margin: 5px;
+}
+.list {
+  padding-left: 15px;
+}
+.item {
+  display: flex;
+  gap: 10px;
+  margin: 0;
+  font-size: 1em;
+  font-weight: 500;
+  align-items: center;
+  color: black;
+}
+.btn {
+  margin: auto 15px;
+  height: 40px;
+}
